@@ -1,0 +1,7 @@
+<Project>
+  <ItemGroup>
+    <Compile Remove="WeatherApp.Tests\**" />
+    <EmbeddedResource Remove="WeatherApp.Tests\**" />
+    <None Remove="WeatherApp.Tests\**" />
+  </ItemGroup>
+</Project>

@@ -1,5 +1,7 @@
 # Weather API Console App
 
+> **Note**: This project was developed with the assistance of AI as part of the **AI Training for Software Developer** course by **Generation Brazil**. Learn more at [https://brazil.generation.org](https://brazil.generation.org)
+
 ## Project Overview
 
 This is a C# console application built with .NET 10 that fetches current weather information for any city. It uses free APIs from Open-Meteo to get accurate weather data without needing an API key. The application follows SOLID principles with proper separation of concerns, dependency injection, and comprehensive unit testing.
